@@ -18,6 +18,9 @@
     [super viewDidLoad];
     NSLog(@"sfafsaf");
     NSLog(@"GUANGLI");
+    NSLog(@"kiafaiyuyang");
+
+
 }
 
 - (void)didReceiveMemoryWarning {
